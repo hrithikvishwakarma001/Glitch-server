@@ -1,9 +1,9 @@
 {
-    "posts": [
-
-    ],
-    "comments": [
-
-    ],
-    "profile": {}
+	"user": [
+		{
+			"id": 1,
+			"name": "Hrithik",
+			"email": "abc@gmail.com"
+		}
+	]
 }
